@@ -30,7 +30,7 @@ def saghareket():
 saghareket()
 
 
-
+"""bu bir değişiklik denemesidir """
 
 
 
